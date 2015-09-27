@@ -1,0 +1,194 @@
+Smartmatch is experimental at /home/david/xSwipe-master/xSwipe.pl line 121.
+
+### $ARGV: '-d'
+
+### $base_dist: '0.05'
+
+### init_synclient
+
+### @area_setting: [
+###                  '    LeftEdge                = 1574
+',
+###                  '    RightEdge               = 5366
+',
+###                  '    TopEdge                 = 1415
+',
+###                  '    BottomEdge              = 4439
+'
+###                ]
+### $touchpad_size_h: 3024
+### $touchpad_size_w: 3792
+### $x_min_thredshould: '189.6'
+### $y_min_thredshould: '151.2'
+### $inner_edge_left: '1637.2'
+### $inner_edge_right: '5302.8'
+### $inner_edge_top: '1566.2'
+### $inner_edge_bottom: '4287.8'
+
+### $session_name: 'gnome'
+
+### $touch_pad_off: '0'
+
+### init_synclient
+
+### $touch_pad_off: '0'
+
+### $touch_pad_off: '0'
+
+### $touch_pad_off: '0'
+
+### $touch_pad_off: '0'
+
+### $touch_pad_off: '0'
+
+### $touch_pad_off: '0'
+Smartmatch is experimental at /home/david/xSwipe-master/xSwipe.pl line 121.
+
+### $ARGV: '-d'
+
+### $base_dist: '0.05'
+
+### init_synclient
+
+### @area_setting: [
+###                  '    LeftEdge                = 1574
+',
+###                  '    RightEdge               = 5366
+',
+###                  '    TopEdge                 = 1415
+',
+###                  '    BottomEdge              = 4439
+'
+###                ]
+### $touchpad_size_h: 3024
+### $touchpad_size_w: 3792
+### $x_min_thredshould: '189.6'
+### $y_min_thredshould: '151.2'
+### $inner_edge_left: '1637.2'
+### $inner_edge_right: '5302.8'
+### $inner_edge_top: '1566.2'
+### $inner_edge_bottom: '4287.8'
+
+### $session_name: 'gnome'
+
+### init_synclient
+
+### $touch_pad_off: '0'
+
+### $touch_pad_off: '0'
+
+### ne default
+
+### $time - $event_time got: '108.657'
+
+### @event_string: [
+###                  'LSK',
+###                  's'
+###                ]
+
+### ne default
+
+### $time - $event_time got: '4.096'
+
+### @event_string: [
+###                  'LSK',
+###                  's'
+###                ]
+
+### ne default
+
+### ne default
+
+### $touch_pad_off: '0'
+
+### $touch_pad_off: '0'
+
+### ne default
+
+### $time - $event_time got: '0.736000000000004'
+
+### ne default
+
+### $time - $event_time got: '0.734999999999999'
+
+### @event_string: [
+###                  'ESC'
+###                ]
+
+### @event_string: [
+###                  'ESC'
+###                ]
+
+### $touch_pad_off: '1'
+
+### $touch_pad_off: '1'
+
+### ne default
+
+### $time - $event_time got: '0.545000000000002'
+
+### @event_string: [
+###                  'LSK',
+###                  's'
+###                ]
+
+### ne default
+
+### $time - $event_time got: '0.545000000000001'
+
+### @event_string: [
+###                  'LSK',
+###                  's'
+###                ]
+
+### $touch_pad_off: '2'
+
+### $touch_pad_off: '0'
+
+### ne default
+
+### $time - $event_time got: '0.502999999999999'
+
+### @event_string: [
+###                  'ESC'
+###                ]
+
+### ne default
+
+### $time - $event_time got: '0.513999999999996'
+
+### @event_string: [
+###                  'ESC'
+###                ]
+
+### $touch_pad_off: '1'
+
+### $touch_pad_off: '0'
+
+### init_synclient
+
+### init_synclient
+
+### $touch_pad_off: '2'
+
+### $touch_pad_off: '0'
+
+### $touch_pad_off: '0'
+
+### $touch_pad_off: '0'
+
+### $touch_pad_off: '0'
+
+### $touch_pad_off: '0'
+
+### init_synclient
+
+### init_synclient
+
+### $touch_pad_off: '2'
+
+### $touch_pad_off: '2'
+
+### $touch_pad_off: '0'
+
+### $touch_pad_off: '0'
